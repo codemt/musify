@@ -10,7 +10,7 @@
     "heroku-postbuild": "cd client && npm install && npm run build",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "keywords": [],
+  "keywords": [], 
   "author": "codemt",
   "license": "MIT",
   "dependencies": {
